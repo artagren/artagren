@@ -1,7 +1,20 @@
+<!--
+
+<div>
+  <h1 style="border-bottom: none; margin-bottom: 0;">👋 Hi ! I'm Álvaro !</h1>
+</div>
+-->
 # 👋 Hi ! I'm Álvaro !
+<table>
+  <tr>
+    <td><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXF5azB2Z2VpdWw2ODVjdmZlemkzb2h6dnFlNWlkMDFmc21rYmU2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dDwicM3uFUqfC/giphy.gif" width="300"></td>
+    <td><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmIxcG5hZTdyaGpsdzJ3cTd3OGdieXBvcmp3OGlpODhneWdiOGdxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X1OM0UJpiekpCA6ga2/giphy.gif" width="400"></td>
+  </tr>
+</table>
+
 
 ## About Me
-Currently pursuing an Advanced Vocational Degree in Multiplatform Application Development (DAM) in Spain.
+Currently pursuing an Advanced Technical Degree ( HND-equivalent ) in Multiplatform Application Development ( DAM ) in Spain.
 
 ## Learning Roadmap
 ![Static Badge](https://img.shields.io/badge/Java-red?logo=Openjdk&logoColor=red&labelColor=121011) ![Static Badge](https://img.shields.io/badge/SQL-blue?logo=MySQL&logoColor=orange&labelColor=121011) ![Static Badge](https://img.shields.io/badge/Kotlin-%232596be?logo=Kotlin&logoColor=%23f08f48&labelColor=121011) ![Static Badge](https://img.shields.io/badge/Swift-black?logo=Swift&logoColor=Orange)
@@ -16,5 +29,8 @@ Currently pursuing an Advanced Vocational Degree in Multiplatform Application De
 
 **IDEs :**
 
-![Static Badge](https://img.shields.io/badge/Intellij%20IDEA-white?logo=Intellij%20IDEA&labelColor=121011) 
+![Static Badge](https://img.shields.io/badge/Intellij%20IDEA-e94659?logo=Intellij%20IDEA&logoColor=White&labelColor=121011)
 ![Static Badge](https://img.shields.io/badge/VS%20Code-blue)
+
+## Currently working on
+![](./profile-3d-contrib/profile-gitblock.svg)
