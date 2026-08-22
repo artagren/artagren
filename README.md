@@ -1,10 +1,9 @@
 # 👋 Hi ! I'm Álvaro !
-<table align="center" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
-  <tr>
-    <td style="border: none; padding: 0;"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXF5azB2Z2VpdWw2ODVjdmZlemkzb2h6dnFlNWlkMDFmc21rYmU2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dDwicM3uFUqfC/giphy.gif" width="295"></td>
-    <td style="border: none; padding: 0;"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmIxcG5hZTdyaGpsdzJ3cTd3OGdieXBvcmp3OGlpODhneWdiOGdxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X1OM0UJpiekpCA6ga2/giphy.gif" width="382"></td>
-  </tr>
-</table>
+
+<p>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXF5azB2Z2VpdWw2ODVjdmZlemkzb2h6dnFlNWlkMDFmc21rYmU2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dDwicM3uFUqfC/giphy.gif" width="210">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmIxcG5hZTdyaGpsdzJ3cTd3OGdieXBvcmp3OGlpODhneWdiOGdxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X1OM0UJpiekpCA6ga2/giphy.gif" width="275">
+</p>
 
 ## About Me
 Currently pursuing an Advanced Technical Degree ( HND-equivalent ) in Multiplatform Application Development ( DAM ) in Spain.
