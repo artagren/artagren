@@ -1,8 +1,7 @@
 # 👋 Hi ! I'm Álvaro !
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXF5azB2Z2VpdWw2ODVjdmZlemkzb2h6dnFlNWlkMDFmc21rYmU2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dDwicM3uFUqfC/giphy.gif" width="295">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmIxcG5hZTdyaGpsdzJ3cTd3OGdieXBvcmp3OGlpODhneWdiOGdxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X1OM0UJpiekpCA6ga2/giphy.gif" width="382">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXF5azB2Z2VpdWw2ODVjdmZlemkzb2h6dnFlNWlkMDFmc21rYmU2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dDwicM3uFUqfC/giphy.gif">
 </p>
 
 ## About Me
@@ -23,6 +22,11 @@ Currently pursuing an Advanced Technical Degree ( HND-equivalent ) in Multiplatf
 
 ![Static Badge](https://img.shields.io/badge/Intellij%20IDEA-e94659?logo=Intellij%20IDEA&logoColor=White&labelColor=121011)
 ![Static Badge](https://img.shields.io/badge/VS%20Code-blue)
+
+<!-- ## My top 5 languages
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=artagren&layout=compact&langs_count=5)](https://github.com/stats-organization/github-stats-extended)
+-->
+
 
 ## Currently working on
 ![](./profile-3d-contrib/profile-gitblock.svg)
