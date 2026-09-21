@@ -11,7 +11,7 @@ Currently pursuing an Advanced Technical Degree ( HND-equivalent ) in Multiplatf
 ![Static Badge](https://img.shields.io/badge/Java-red?logo=Openjdk&logoColor=red&labelColor=121011) ![Static Badge](https://img.shields.io/badge/SQL-blue?logo=MySQL&logoColor=orange&labelColor=121011) ![Static Badge](https://img.shields.io/badge/Kotlin-%232596be?logo=Kotlin&logoColor=%23f08f48&labelColor=121011) ![Static Badge](https://img.shields.io/badge/Swift-black?logo=Swift&logoColor=Orange)
 
  
- ![Static Badge](https://img.shields.io/badge/GNU%20Bash-black?logo=GNU%20Bash&logoColor=white&labelColor=121011) ![Static Badge](https://img.shields.io/badge/HTML5-black?logo=HTML5&logoColor=orange&labelColor=121011) ![Static Badge](https://img.shields.io/badge/CSS-black?logo=CSS&logoColor=yellow&labelColor=121011) ![Static Badge](https://img.shields.io/badge/XML-black?logo=XML&logoColor=white&labelColor=121011) 
+ ![Static Badge](https://img.shields.io/badge/GNU%20Bash-black?logo=GNU%20Bash&logoColor=white&labelColor=121011) ![Static Badge](https://img.shields.io/badge/HTML5-black?logo=HTML5&logoColor=orange&labelColor=121011) ![Static Badge](https://img.shields.io/badge/CSS-black?logo=CSS&logoColor=yellow&labelColor=121011)
 
 ## Tech Setup
 **Operating Systems :**
