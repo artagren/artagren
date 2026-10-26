@@ -28,5 +28,5 @@ Currently pursuing an Advanced Technical Degree ( HND-equivalent ) in Multiplatf
 -->
 
 
-## Currently working on
+## My Github Stats
 ![](./profile-3d-contrib/profile-gitblock.svg)
